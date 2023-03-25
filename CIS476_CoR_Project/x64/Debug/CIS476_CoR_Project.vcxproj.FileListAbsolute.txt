@@ -1,0 +1,5 @@
+C:\Users\danic\source\repos\CIS476_CoR_Project\x64\Debug\CIS476_CoR_Project.vcxproj.AssemblyReference.cache
+C:\Users\danic\source\repos\CIS476_CoR_Project\x64\Debug\CIS476_CoR_Project.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\danic\source\repos\CIS476_CoR_Project\x64\Debug\CIS476CoRProject.MyForm.resources
+C:\Users\danic\source\repos\CIS476_CoR_Project\x64\Debug\CIS476_CoR_Project.vcxproj.GenerateResource.cache
+C:\Users\danic\source\repos\CIS476_CoR_Project\x64\Debug\CIS476_CoR_Project.exe
